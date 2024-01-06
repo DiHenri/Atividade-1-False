@@ -1,0 +1,37 @@
+
+import java.util.Scanner;
+
+
+
+
+
+public class Main {
+
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+	
+	
+	Scanner sc =  new Scanner (System.in); 
+	
+	int A, raio;
+	
+	A = sc. nextInt();
+	
+	
+		
+			raio = A ;
+		
+			System.out.println("  = " + raio);
+			
+			System.out.println ( "Atividade 2: faça a soma de dois numeros  x + y ");
+			
+    sc.close();
+		
+	}
+
+}

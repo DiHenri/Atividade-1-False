@@ -1,0 +1,35 @@
+
+import java.util.Scanner;
+
+
+
+
+
+public class Main {
+
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+	
+	
+	Scanner sc =  new Scanner (System.in); 
+	
+	int A, B, soma;
+	
+	A = sc. nextInt(30);
+	
+	B = sc. nextInt(10);	
+		
+			soma = A + B ;
+		
+			System.out.print(" SOMA=" +soma);
+			
+    sc.close();
+		
+	}
+
+}
